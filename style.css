@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background: #0f1216;
+  color: #e6e8eb;
+  font: 17px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px 20px 48px;
+}
+h1 { font-size: 28px; margin: 8px 0 4px; }
+h2 { font-size: 20px; margin: 28px 0 8px; }
+a { color: #e8b84a; }
+.date { color: #9aa3ad; margin-top: 0; }
+li { margin: 4px 0; }
